@@ -1,0 +1,7 @@
+﻿venv
+.idea
+__pycache__
+*.log
+test/pwd.py
+test/t.py
+pwd.py
