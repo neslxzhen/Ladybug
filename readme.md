@@ -16,3 +16,9 @@ A fan group manager that combines [FB](https://www.facebook.com/), [Twitter](htt
         - [twitter](https://developer.twitter.com/en/docs/authentication/overview): because OAuth 2.0 Bearer Token allows a Twitter developer app to access information publicly available on Twitter.
     - Oauth2
         -
+
+### Django
+使用MTV框架
+
+### script
+ - `python3 manage.py runserver`
